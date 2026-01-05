@@ -35,6 +35,8 @@ public class Main {
     }
 
     System.out.println("Thanks for practice");
+    System.out.println("Ghola pani");
+    
     
   }
 }
