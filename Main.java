@@ -33,6 +33,8 @@ public class Main {
       System.out.println("Not a prime");
     
     }
+
+    System.out.println("Thanks for practice");
     
   }
 }
