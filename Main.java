@@ -1,6 +1,6 @@
 public class Main {
   public static void main(String[] args) {
-    int n = 5;
+    int n = 4;
     if(n <= 1) { //First condition to be a prime number
     
       System.out.println("Invalid number");
