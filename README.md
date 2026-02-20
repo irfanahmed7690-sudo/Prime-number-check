@@ -1,8 +1,5 @@
 # Prime-number-check
-Prime number check repository for git tutorial
+Hello everyone! My previous GitHub account was deleted.
+I decompiled a RAW file, and as a result, my previous GitHub account was restricted.
 
-This repository is built step by step in this tutorial
 
-This is an example repository for git tutorial
-
-It now includes steps for Git
